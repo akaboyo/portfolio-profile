@@ -1,6 +1,6 @@
 # Adebayo Adebanjo  
 
-### Address:  Lagos, Nigeria.[LinkedIn](linkedin.com/in/adebayo-adebanjo-data-analyst) | akaboyo@gmail.com | +2347040535032, +2348020983828
+### Address:  Lagos, Nigeria.|[LinkedIn](linkedin.com/in/adebayo-adebanjo-data-analyst) | akaboyo@gmail.com | +2347040535032, +2348020983828
 
 #### PROFILE
 Microsoft Certified Power BI Data Analyst with expertise in data visualization, analytics, and business intelligence using Power BI, Tableau, Excel, DAX, SQL and Python. Proficient in transforming complex datasets into actionable insights to drive informed business decisions. Adept at optimizing processes, managing data workspaces, and creating dynamic, interactive reports.
