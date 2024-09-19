@@ -1,4 +1,4 @@
-# [Adebayo Adebanjo](#adebayo-adebanjo)  
+# [Data Analyst](#data-analyst)  
 
 ### Address:  Lagos, Nigeria.|[LinkedIn](linkedin.com/in/adebayo-adebanjo-data-analyst) | akaboyo@gmail.com | +2347040535032, +2348020983828
 
