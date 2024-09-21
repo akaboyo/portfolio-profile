@@ -13,12 +13,12 @@ Microsoft Certified Power BI Data Analyst with expertise in data visualization, 
 #### WORK EXPERIENCE
 ##### The West African Examinations Council (NIGERIA) 	April 2011 – Present
 Senior Examinations Officer (Accounts)	           
--	Developed monthly operating statements, controlled expenditure, and monitored budgets to ensure financial accuracy.
--	Managed the preparation of capital and overheads annual budgets, and processed financial reports for multiple branches.
--	Automated the payment processes for staff, examiners, and supervisors, resulting in a 20% improvement in efficiency.
--	Collaborated with cross-functional teams to optimize operational workflows, reducing budget deficits.
--	Analyzed monthly revenue and expenditure returns , providing actionable insights to senior management for business decision-making. 
--	Prepared monthly Cash-Books and Bank Reconciliation Statements resulting in timely update of financial records.
+-	Developed monthly operating statements, controlled expenditure, and monitored budgets to prevent operational deficits and ensure financial accuracy.
+-	Managed the preparation of capital and overheads annual budgets, and consolidated financial reports for multiple branches to align with the strategic plan.
+-	Automated the payment processes for staff, examiners, and supervisors, resulting in a 20% improvement in efficiency and effectiveness.
+-	Collaborated with cross-functional teams to optimize operational workflows, reducing budget deficits by 15% for five(05) years consecutively.
+-	Analyzed monthly revenue and expenditure returns , providing actionable insights to senior management for business decision-making and budget planning. 
+-	Prepared monthly Cash-Books and Bank Reconciliation Statements resulting in timely update of financial records and achieving monthly KPIs.
 -	Automated the process of staff expenses verification leading to fraud detection of $10,000.
 -	Collaborated with Tax Consultants for processing of Tax returns (Staff PAYE, WHT) to avoid regulatory penalties.  
 
@@ -39,7 +39,7 @@ Senior Examinations Officer (Accounts)
 -	Excel Skills for Data Analytics and Visualization – Macquarie University                                 June 2023
 -	Google Data Analytics Certificate – Google                                                               April 2023
                                                                                                 
-#### OTHER PROJECTS 
+#### PROJECTS 
 ##### Accenture North America Data Analytics and Visualization Job Simulation on Forage - August 2024
 -	Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture
 -	Cleaned, modelled and analysed 7 datasets to uncover insights into content trends to inform strategic decisions
