@@ -9,19 +9,6 @@ Microsoft Certified Power BI Data Analyst with expertise in data visualization, 
 #### EDUCATION
 ##### Institute of Chartered Accountants of Nigeria | Accounting Technician Scheme (ATS)	            2004-2006
 
-
-#### WORK EXPERIENCE
-##### The West African Examinations Council (NIGERIA) 	April 2011 – Present
-Senior Examinations Officer (Accounts)	           
--	Developed monthly operating statements, controlled expenditure, and monitored budgets to prevent operational deficits and ensure financial accuracy.
--	Managed the preparation of capital and overheads annual budgets, and consolidated financial reports for multiple branches to align with the strategic plan.
--	Automated the payment processes for staff, examiners, and supervisors, resulting in a 20% improvement in efficiency and effectiveness.
--	Collaborated with cross-functional teams to optimize operational workflows, reducing budget deficits by 15% for five(05) years consecutively.
--	Analyzed monthly revenue and expenditure returns , providing actionable insights to senior management for business decision-making and budget planning. 
--	Prepared monthly Cash-Books and Bank Reconciliation Statements resulting in timely update of financial records and achieving monthly KPIs.
--	Automated the process of staff expenses verification leading to fraud detection of $10,000.
--	Collaborated with Tax Consultants for processing of Tax returns (Staff PAYE, WHT) to avoid regulatory penalties.  
-
 #### Skills & Tools
 -  Data Visualization: Power BI, Tableau, Power-point presentation 
 -  Data Analytics: Excel, Power Query, (DAX), Python, R
@@ -56,6 +43,19 @@ Senior Examinations Officer (Accounts)
 -	Demonstrated expertise in data visualization through the creation of Power BI dashboards that effectively conveyed KPIs, showcasing the ability to respond to client requests with well-designed solutions.
 -	Strong communication skills reflected in the concise and informative email communication with engagement partners, delivering valuable insights and actionable suggestions based on data analysis.
 -	Leveraged analytical problem-solving skills to examine HR data, particularly focusing on gender-related KPIs, and identified root causes for gender balance issues at the executive management level, highlighting a commitment to data-driven decision-making.
+
+#### WORK EXPERIENCE
+##### The West African Examinations Council (NIGERIA) 	April 2011 – Present
+Senior Examinations Officer (Accounts)	           
+-	Developed monthly operating statements, controlled expenditure, and monitored budgets to prevent operational deficits and ensure financial accuracy.
+-	Managed the preparation of capital and overheads annual budgets, and consolidated financial reports for multiple branches to align with the strategic plan.
+-	Automated the payment processes for staff, examiners, and supervisors, resulting in a 20% improvement in efficiency and effectiveness.
+-	Collaborated with cross-functional teams to optimize operational workflows, reducing budget deficits by 15% for five(05) years consecutively.
+-	Analyzed monthly revenue and expenditure returns , providing actionable insights to senior management for business decision-making and budget planning. 
+-	Prepared monthly Cash-Books and Bank Reconciliation Statements resulting in timely update of financial records and achieving monthly KPIs.
+-	Automated the process of staff expenses verification leading to fraud detection of $10,000.
+-	Collaborated with Tax Consultants for processing of Tax returns (Staff PAYE, WHT) to avoid regulatory penalties.  
+
  
 
 
