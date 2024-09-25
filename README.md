@@ -26,7 +26,7 @@ Microsoft Certified Power BI Data Analyst with expertise in data visualization, 
 -	Excel Skills for Data Analytics and Visualization – Macquarie University                                 June 2023
 -	Google Data Analytics Certificate – Google                                                               April 2023
                                                                                                 
-#### INTERNSHIP PROJECTS 
+#### PROJECT EXPERIENCE 
 ##### Accenture North America Data Analytics and Visualization Job Simulation on Forage - August 2024
 -	Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture
 -	Cleaned, modelled and analysed 7 datasets to uncover insights into content trends to inform strategic decisions
@@ -53,7 +53,7 @@ Senior Examinations Officer (Accounts)
 -	Collaborated with cross-functional teams to optimize operational workflows, reducing budget deficits by 15% for five(05) years consecutively.
 -	Analyzed monthly revenue and expenditure returns , providing actionable insights to senior management for business decision-making and budget planning. 
 -	Prepared monthly Cash-Books and Bank Reconciliation Statements resulting in timely update of financial records and achieving monthly KPIs.
--	Automated the process of staff expenses verification leading to fraud detection of $10,000.
+-	Automated the process of staff expenses verification leading to fraud detection of about $10,000.
 -	Collaborated with Tax Consultants for processing of Tax returns (Staff PAYE, WHT) to avoid regulatory penalties.  
 
  
