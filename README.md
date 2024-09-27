@@ -1,4 +1,4 @@
-# [Adebayo Adebanjo](#Adebayo-Adebanjo)  
+# [Microsoft Certified PowerBI Data Analyst Associate](#Microsoft-Certified-PowerBI-Data-Analyst-Associate)  
 
 ### Address:  Lagos, Nigeria.|[LinkedIn](linkedin.com/in/adebayo-adebanjo-data-analyst) | akaboyo@gmail.com | +2347040535032, +2348020983828
 
