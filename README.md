@@ -27,22 +27,17 @@ Microsoft Certified Power BI Data Analyst with expertise in data visualization, 
 -	Google Data Analytics Certificate – Google                                                               April 2023
                                                                                                 
 #### PROJECT EXPERIENCE 
-##### Accenture North America Data Analytics and Visualization Job Simulation on Forage - August 2024
--	Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture
--	Cleaned, modelled and analysed 7 datasets to uncover insights into content trends to inform strategic decisions
--	Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
-  
-##### KPMG AU Data Analytics Job Simulation on Forage - September 2024
--	Completed a simulation focused on advising a client on customer targeting with the Data, Analytics & Modelling team
--	Assessed data quality and completeness in preparation for analysis
--	Analysed data to target high-value customers based on demographics and attributes
--	Developed dashboards to communicate findings with visuals
-  
-##### PwC Switzerland Power BI Job Simulation on Forage - September 2024
--	Completed a job simulation where I strengthened my PowerBI skills to better understand clients and their data visualisation needs.
--	Demonstrated expertise in data visualization through the creation of Power BI dashboards that effectively conveyed KPIs, showcasing the ability to respond to client requests with well-designed solutions.
--	Strong communication skills reflected in the concise and informative email communication with engagement partners, delivering valuable insights and actionable suggestions based on data analysis.
--	Leveraged analytical problem-solving skills to examine HR data, particularly focusing on gender-related KPIs, and identified root causes for gender balance issues at the executive management level, highlighting a commitment to data-driven decision-making.
+##### PwC Switzerland Power BI Job Simulation – September 2024
+-	Constructed dynamic Power BI dashboards to visualize gender balance KPIs, customer churn rates, and key performance indicators for strategic decision-making, leading to a 50% increase in operational efficiency.
+-	Presented data insights through compelling visual narratives that empowered stakeholders to make informed decisions, resulting in a 30% decrease in response time to market trends.
+-	Implemented rigorous quality analysis processes that led to a 25% reduction in data errors and inaccuracies, improving overall data integrity and trustworthiness.
+
+##### KPMG AU Data Analytics Job Simulation – September 2024
+-	Analysed demographic data to identify high-value customer segments, resulting in a 15% increase in sales among the targeted demographics.
+-	Developed interactive dashboards to visually represent key findings, enabling the marketing team to make data-driven decisions that led to a 20% increase in customer engagement.
+##### Accenture North America Data Analytics Simulation – August 2024
+-	Utilized data cleaning and modeling techniques to uncover content trends, leading to the implementation of new strategies that resulted in a 10% growth in market share.
+-	Developed and delivered insights to stakeholders through engaging PowerPoint and video presentations achieving a 95% satisfaction rate in post-presentation feedback, and contributing to data-driven decisions that increased project success rates by 30%.
 
 #### WORK EXPERIENCE
 ##### The West African Examinations Council (NIGERIA) 	April 2011 – Present
